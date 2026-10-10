@@ -1,0 +1,1 @@
+// Data Structure Core Concepts: Program = Algorithms + Data Structure; Data Structure organizes, manages, and stores data efficiently in memory for optimal processing and retrieval.

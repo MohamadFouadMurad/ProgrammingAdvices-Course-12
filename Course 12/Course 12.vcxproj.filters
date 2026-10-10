@@ -13,5 +13,25 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\01-Data Structures">
+      <UniqueIdentifier>{98d20ab1-5aea-41fd-9c5b-24a3c58135e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\02-Data Structures %28DS%29 vs Database %28DB%29">
+      <UniqueIdentifier>{df3b0bbd-e9ee-4866-9eaf-04d6fe9a33c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\03-Classifications of Data Structures">
+      <UniqueIdentifier>{9f127b3d-109e-4a0f-b3b6-3cef7aef57e1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01-Data Structures\01-What is Data Structure and Why.cpp">
+      <Filter>Source Files\01-Data Structures</Filter>
+    </ClCompile>
+    <ClCompile Include="02-Data Structures (DS) vs Database (DB)\01-  Differences between Data Structures and Database.cpp">
+      <Filter>Source Files\02-Data Structures %28DS%29 vs Database %28DB%29</Filter>
+    </ClCompile>
+    <ClCompile Include="03-Classifications of Data Structures\01-What are the ClassificationTypes of Data Structures.cpp">
+      <Filter>Source Files\03-Classifications of Data Structures</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

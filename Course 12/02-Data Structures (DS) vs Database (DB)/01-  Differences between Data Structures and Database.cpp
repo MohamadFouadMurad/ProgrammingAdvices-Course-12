@@ -1,0 +1,1 @@
+// Data Structure vs Database: Data Structures organize temporary data in RAM (efficiency), while Databases manage persistent data on secondary storage (DBMS/SQL).

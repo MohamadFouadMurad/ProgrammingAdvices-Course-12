@@ -1,0 +1,1 @@
+// Data Structure Overview: Classified into Primitive (built-in types/pointers) and Non-Primitive (Linear: Arrays/LinkedList/Stack/Queue vs Non-Linear: Tree/Graph), supporting core operations like Create, Update, Search, Sort, Merge, and Delete.
