@@ -22,6 +22,9 @@
     <Filter Include="Source Files\03-Classifications of Data Structures">
       <UniqueIdentifier>{9f127b3d-109e-4a0f-b3b6-3cef7aef57e1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\04-Big O Notation">
+      <UniqueIdentifier>{bc248095-4ef4-4c0c-aa07-7fa01a1fb50a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01-Data Structures\01-What is Data Structure and Why.cpp">
@@ -32,6 +35,12 @@
     </ClCompile>
     <ClCompile Include="03-Classifications of Data Structures\01-What are the ClassificationTypes of Data Structures.cpp">
       <Filter>Source Files\03-Classifications of Data Structures</Filter>
+    </ClCompile>
+    <ClCompile Include="04-Big O Notation\01-  Things Affect Program Speed &amp; Efficiency.cpp">
+      <Filter>Source Files\04-Big O Notation</Filter>
+    </ClCompile>
+    <ClCompile Include="04-Big O Notation\02- Time &amp; Space Complexity - Big O Notation.cpp">
+      <Filter>Source Files\04-Big O Notation</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

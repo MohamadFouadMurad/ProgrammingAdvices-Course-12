@@ -1,0 +1,1 @@
+// Big O Notation: Measures algorithm efficiency (Time & Space growth relative to input size N) in the worst-case scenario, ignoring hardware specs and exact execution time.

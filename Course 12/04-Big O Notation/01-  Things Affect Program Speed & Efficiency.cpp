@@ -1,0 +1,1 @@
+// Factors Affecting Program Speed: Hardware (CPU/RAM/OS) is handled by specs, while software performance relies solely on optimizing Algorithm Complexity (Time & Space).
