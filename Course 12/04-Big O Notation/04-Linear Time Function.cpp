@@ -1,0 +1,1 @@
+// Big O(n) Linear Time: Execution time grows linearly with input size N; constants and lower-order terms (e.g., 6n + 4) are dropped to simplify to O(n).

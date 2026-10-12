@@ -42,5 +42,23 @@
     <ClCompile Include="04-Big O Notation\02- Time &amp; Space Complexity - Big O Notation.cpp">
       <Filter>Source Files\04-Big O Notation</Filter>
     </ClCompile>
+    <ClCompile Include="04-Big O Notation\03-Constant Time Function.cpp">
+      <Filter>Source Files\04-Big O Notation</Filter>
+    </ClCompile>
+    <ClCompile Include="04-Big O Notation\04-Linear Time Function.cpp">
+      <Filter>Source Files\04-Big O Notation</Filter>
+    </ClCompile>
+    <ClCompile Include="04-Big O Notation\05-Quadratic Time Function.cpp">
+      <Filter>Source Files\04-Big O Notation</Filter>
+    </ClCompile>
+    <ClCompile Include="04-Big O Notation\06-Logarithmic Time Function.cpp">
+      <Filter>Source Files\04-Big O Notation</Filter>
+    </ClCompile>
+    <ClCompile Include="04-Big O Notation\07-  Important Question , Work Smart..cpp">
+      <Filter>Source Files\04-Big O Notation</Filter>
+    </ClCompile>
+    <ClCompile Include="04-Big O Notation\08-Big O Comparison and Conclusion.cpp">
+      <Filter>Source Files\04-Big O Notation</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

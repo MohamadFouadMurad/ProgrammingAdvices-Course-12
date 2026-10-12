@@ -1,0 +1,1 @@
+// Big O(n^2) Quadratic Time: Nested loops iterating over input N scale quadratically; lower-order terms and constants are dropped to leave O(n^2).

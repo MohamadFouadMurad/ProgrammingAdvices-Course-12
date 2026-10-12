@@ -1,0 +1,1 @@
+// Big O Growth Comparison & Worst-Case Dominance: $O(1) < O(\log n) < O(n) < O(n \log n) < O(n^2) < O(n^3) < O(2^n) < O(n!)$; always retain only the dominant (worst-case) term.

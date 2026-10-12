@@ -1,0 +1,1 @@
+// Big O(log n) Logarithmic Time: Execution steps divide the problem size in half each iteration (e.g., x = x / 2), resulting in logarithmic growth as input N increases.

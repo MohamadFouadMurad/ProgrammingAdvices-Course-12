@@ -1,0 +1,1 @@
+// Big O(1) Constant Time: Execution time stays constant regardless of input size, as constant factors are dropped during step simplification.
