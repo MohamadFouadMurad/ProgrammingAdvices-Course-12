@@ -1,0 +1,1 @@
+// Matrix (2D Array) Time Complexity: Direct access/insertion via row/col index is O(1) [O(N^2) for full matrix], while searching requires nested loops resulting in O(N^2).

@@ -172,6 +172,9 @@
     <ClCompile Include="04-Big O Notation\08-Big O Comparison and Conclusion.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="05-Binary Data Structure\01-Binary Data Structure Real Examples..cpp" />
+    <ClCompile Include="06-Array Data Structure\01-Array is One of the Most Important Data Structures.cpp" />
+    <ClCompile Include="07-Matrix Data Structure\01-Matrix Data Structure.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

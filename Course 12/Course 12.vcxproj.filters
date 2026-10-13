@@ -25,6 +25,15 @@
     <Filter Include="Source Files\04-Big O Notation">
       <UniqueIdentifier>{bc248095-4ef4-4c0c-aa07-7fa01a1fb50a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\05-Binary Data Structure">
+      <UniqueIdentifier>{367e9a20-81fa-4274-b077-222670166d0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\06-Array Data Structure">
+      <UniqueIdentifier>{a6fea18b-62d7-4ba9-8d70-8b8cbdc46b9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\07-Matrix Data Structure">
+      <UniqueIdentifier>{3505b919-3b22-4541-8671-150c4b0d8679}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01-Data Structures\01-What is Data Structure and Why.cpp">
@@ -59,6 +68,15 @@
     </ClCompile>
     <ClCompile Include="04-Big O Notation\08-Big O Comparison and Conclusion.cpp">
       <Filter>Source Files\04-Big O Notation</Filter>
+    </ClCompile>
+    <ClCompile Include="05-Binary Data Structure\01-Binary Data Structure Real Examples..cpp">
+      <Filter>Source Files\05-Binary Data Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="06-Array Data Structure\01-Array is One of the Most Important Data Structures.cpp">
+      <Filter>Source Files\06-Array Data Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="07-Matrix Data Structure\01-Matrix Data Structure.cpp">
+      <Filter>Source Files\07-Matrix Data Structure</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

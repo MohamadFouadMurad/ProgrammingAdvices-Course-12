@@ -1,0 +1,1 @@
+// Bitwise Permission Checking: Evaluating user permissions via bitwise AND (&) runs in O(1) time and space complexity.

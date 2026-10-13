@@ -1,0 +1,1 @@
+// Array Data Structure: Contiguous memory storage for homogeneous elements; supports O(1) random access/insertion by index, but linear O(N) search and full traversal.
