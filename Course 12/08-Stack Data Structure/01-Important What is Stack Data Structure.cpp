@@ -1,0 +1,1 @@
+// Stack Data Structure: LIFO (Last In, First Out) structure where elements are added (push) and removed (pop) only from the top.

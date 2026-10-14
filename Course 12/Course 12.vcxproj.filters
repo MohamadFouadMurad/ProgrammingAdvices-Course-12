@@ -34,6 +34,12 @@
     <Filter Include="Source Files\07-Matrix Data Structure">
       <UniqueIdentifier>{3505b919-3b22-4541-8671-150c4b0d8679}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\08-Stack Data Structure">
+      <UniqueIdentifier>{16df1125-ad70-42f8-a9da-7fc69621b3f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\09-Vector Data Structure">
+      <UniqueIdentifier>{9dbe6387-cc87-41e9-ab39-6b2cdae08563}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01-Data Structures\01-What is Data Structure and Why.cpp">
@@ -77,6 +83,18 @@
     </ClCompile>
     <ClCompile Include="07-Matrix Data Structure\01-Matrix Data Structure.cpp">
       <Filter>Source Files\07-Matrix Data Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="08-Stack Data Structure\01-Important What is Stack Data Structure.cpp">
+      <Filter>Source Files\08-Stack Data Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="08-Stack Data Structure\02-Stl Stack.cpp">
+      <Filter>Source Files\08-Stack Data Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="08-Stack Data Structure\03-Stack Swap.cpp">
+      <Filter>Source Files\08-Stack Data Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="09-Vector Data Structure\01-Vector Data Structure.cpp">
+      <Filter>Source Files\09-Vector Data Structure</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

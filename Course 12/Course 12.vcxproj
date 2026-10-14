@@ -175,6 +175,18 @@
     <ClCompile Include="05-Binary Data Structure\01-Binary Data Structure Real Examples..cpp" />
     <ClCompile Include="06-Array Data Structure\01-Array is One of the Most Important Data Structures.cpp" />
     <ClCompile Include="07-Matrix Data Structure\01-Matrix Data Structure.cpp" />
+    <ClCompile Include="08-Stack Data Structure\01-Important What is Stack Data Structure.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="08-Stack Data Structure\02-Stl Stack.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="08-Stack Data Structure\03-Stack Swap.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="09-Vector Data Structure\01-Vector Data Structure.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
