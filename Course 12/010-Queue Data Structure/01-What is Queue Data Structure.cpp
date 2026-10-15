@@ -1,0 +1,1 @@
+// Queue Data Structure: FIFO (First In, First Out) structure where elements are inserted at the back (push/enqueue) and removed from the front (pop/dequeue).

@@ -40,6 +40,12 @@
     <Filter Include="Source Files\09-Vector Data Structure">
       <UniqueIdentifier>{9dbe6387-cc87-41e9-ab39-6b2cdae08563}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\010-Queue Data Structure">
+      <UniqueIdentifier>{c3332ce1-4e38-4f25-943a-6de731fdb2b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\011-Linked List Data Structrue">
+      <UniqueIdentifier>{7caeec46-058f-4644-9597-75610e5094f5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01-Data Structures\01-What is Data Structure and Why.cpp">
@@ -95,6 +101,18 @@
     </ClCompile>
     <ClCompile Include="09-Vector Data Structure\01-Vector Data Structure.cpp">
       <Filter>Source Files\09-Vector Data Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="010-Queue Data Structure\01-What is Queue Data Structure.cpp">
+      <Filter>Source Files\010-Queue Data Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="010-Queue Data Structure\02-STL Queue.cpp">
+      <Filter>Source Files\010-Queue Data Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="010-Queue Data Structure\03-Queue Swap.cpp">
+      <Filter>Source Files\010-Queue Data Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="011-Linked List Data Structrue\01-What is Linked List Data Structure.cpp">
+      <Filter>Source Files\011-Linked List Data Structrue</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

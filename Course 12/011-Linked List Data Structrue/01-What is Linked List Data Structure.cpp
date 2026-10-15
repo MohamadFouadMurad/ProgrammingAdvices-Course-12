@@ -1,0 +1,1 @@
+// Singly Linked List: Linear data structure composed of connected nodes, where each node contains data and a pointer to the next node in memory.

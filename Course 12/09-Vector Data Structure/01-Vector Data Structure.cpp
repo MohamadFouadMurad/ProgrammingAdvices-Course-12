@@ -1,0 +1,1 @@
+// Vector Data Structure: Dynamic contiguous array that automatically resizes when full, offering O(1) random access and amortized O(1) insertion at the end.
