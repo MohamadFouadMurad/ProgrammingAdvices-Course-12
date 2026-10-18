@@ -123,5 +123,20 @@
     <ClCompile Include="011-Linked List Data Structrue\04-Operations - Find.cpp">
       <Filter>Source Files\011-Linked List Data Structrue</Filter>
     </ClCompile>
+    <ClCompile Include="011-Linked List Data Structrue\05-Operations - Insert After.cpp">
+      <Filter>Source Files\011-Linked List Data Structrue</Filter>
+    </ClCompile>
+    <ClCompile Include="011-Linked List Data Structrue\06-Operations - Insert at End.cpp">
+      <Filter>Source Files\011-Linked List Data Structrue</Filter>
+    </ClCompile>
+    <ClCompile Include="011-Linked List Data Structrue\07-Operations - Delete Node.cpp">
+      <Filter>Source Files\011-Linked List Data Structrue</Filter>
+    </ClCompile>
+    <ClCompile Include="011-Linked List Data Structrue\08-Operations - Delete First Node.cpp">
+      <Filter>Source Files\011-Linked List Data Structrue</Filter>
+    </ClCompile>
+    <ClCompile Include="011-Linked List Data Structrue\09-Operations - Delete Last Node.cpp">
+      <Filter>Source Files\011-Linked List Data Structrue</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
