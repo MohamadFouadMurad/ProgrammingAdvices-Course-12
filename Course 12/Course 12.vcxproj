@@ -154,6 +154,12 @@
     <ClCompile Include="011-Linked List Data Structrue\01-What is Linked List Data Structure.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="011-Linked List Data Structrue\010-Operations - Delete First Node.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="011-Linked List Data Structrue\011-Delete Last Node.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="011-Linked List Data Structrue\02-Singly Linked List Implementation.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -175,9 +181,10 @@
     <ClCompile Include="011-Linked List Data Structrue\08-Operations - Delete First Node.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="011-Linked List Data Structrue\09-Operations - Delete Last Node.cpp">
+    <ClCompile Include="011-Linked List Data Structrue\09-Operations - Delete Node.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="012-Doubly Linked List Data Structure\01-What is Doubly Linked List.cpp" />
     <ClCompile Include="02-Data Structures (DS) vs Database (DB)\01-  Differences between Data Structures and Database.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

@@ -1,0 +1,1 @@
+// Doubly Linked List: Linear data structure where each node contains data and two pointers: one pointing to the next node and another to the previous node, allowing bidirectional traversal.

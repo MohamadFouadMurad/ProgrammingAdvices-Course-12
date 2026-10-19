@@ -46,6 +46,9 @@
     <Filter Include="Source Files\011-Linked List Data Structrue">
       <UniqueIdentifier>{7caeec46-058f-4644-9597-75610e5094f5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\012-Doubly Linked List Data Structure">
+      <UniqueIdentifier>{c6a469f1-12eb-45a6-8897-cb5a5b11a423}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01-Data Structures\01-What is Data Structure and Why.cpp">
@@ -135,8 +138,17 @@
     <ClCompile Include="011-Linked List Data Structrue\08-Operations - Delete First Node.cpp">
       <Filter>Source Files\011-Linked List Data Structrue</Filter>
     </ClCompile>
-    <ClCompile Include="011-Linked List Data Structrue\09-Operations - Delete Last Node.cpp">
+    <ClCompile Include="011-Linked List Data Structrue\09-Operations - Delete Node.cpp">
       <Filter>Source Files\011-Linked List Data Structrue</Filter>
+    </ClCompile>
+    <ClCompile Include="011-Linked List Data Structrue\010-Operations - Delete First Node.cpp">
+      <Filter>Source Files\011-Linked List Data Structrue</Filter>
+    </ClCompile>
+    <ClCompile Include="011-Linked List Data Structrue\011-Delete Last Node.cpp">
+      <Filter>Source Files\011-Linked List Data Structrue</Filter>
+    </ClCompile>
+    <ClCompile Include="012-Doubly Linked List Data Structure\01-What is Doubly Linked List.cpp">
+      <Filter>Source Files\012-Doubly Linked List Data Structure</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
