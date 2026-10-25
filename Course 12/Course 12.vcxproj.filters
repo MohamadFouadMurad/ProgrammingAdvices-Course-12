@@ -159,5 +159,11 @@
     <ClCompile Include="012-Doubly Linked List Data Structure\04-Operations - Find Node.cpp">
       <Filter>Source Files\012-Doubly Linked List Data Structure</Filter>
     </ClCompile>
+    <ClCompile Include="012-Doubly Linked List Data Structure\05-Operations - Insert after.cpp">
+      <Filter>Source Files\012-Doubly Linked List Data Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="012-Doubly Linked List Data Structure\06-Operations - Insert at end .cpp">
+      <Filter>Source Files\012-Doubly Linked List Data Structure</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
