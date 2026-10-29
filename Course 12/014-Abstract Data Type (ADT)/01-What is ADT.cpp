@@ -1,0 +1,1 @@
+// Abstract Data Type (ADT): Theoretical model defining WHAT operations a data type can perform without specifying HOW they are implemented (e.g., Stack, Queue, Vector).

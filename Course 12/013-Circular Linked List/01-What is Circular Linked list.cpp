@@ -1,0 +1,1 @@
+// Circular Linked List: Linked list variation where the last node points back to the first node (Head) instead of NULL, enabling continuous circular traversal.
