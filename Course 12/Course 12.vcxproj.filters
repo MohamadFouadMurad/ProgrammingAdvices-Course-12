@@ -49,6 +49,12 @@
     <Filter Include="Source Files\012-Doubly Linked List Data Structure">
       <UniqueIdentifier>{c6a469f1-12eb-45a6-8897-cb5a5b11a423}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\013-Circular Linked List">
+      <UniqueIdentifier>{c4db636a-d742-4c4f-8a17-635a90463fd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\014-Abstract Data Type %28ADT%29">
+      <UniqueIdentifier>{1ae1e846-35d0-4639-a8ff-e3981046bea8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01-Data Structures\01-What is Data Structure and Why.cpp">
@@ -164,6 +170,21 @@
     </ClCompile>
     <ClCompile Include="012-Doubly Linked List Data Structure\06-Operations - Insert at end .cpp">
       <Filter>Source Files\012-Doubly Linked List Data Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="012-Doubly Linked List Data Structure\07-Operations - Delete Node.cpp">
+      <Filter>Source Files\012-Doubly Linked List Data Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="012-Doubly Linked List Data Structure\08-Delete First Node.cpp">
+      <Filter>Source Files\012-Doubly Linked List Data Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="012-Doubly Linked List Data Structure\09-Delete Last Node.cpp">
+      <Filter>Source Files\012-Doubly Linked List Data Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="013-Circular Linked List\01-What is Circular Linked list.cpp">
+      <Filter>Source Files\013-Circular Linked List</Filter>
+    </ClCompile>
+    <ClCompile Include="014-Abstract Data Type (ADT)\01-What is ADT.cpp">
+      <Filter>Source Files\014-Abstract Data Type %28ADT%29</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
