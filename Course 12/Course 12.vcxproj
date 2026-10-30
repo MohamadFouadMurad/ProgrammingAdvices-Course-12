@@ -217,6 +217,10 @@
     <ClCompile Include="014-Abstract Data Type (ADT)\01-What is ADT.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="015-Map\01-What is Map.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="016-Union\01-What is Union.cpp" />
     <ClCompile Include="02-Data Structures (DS) vs Database (DB)\01-  Differences between Data Structures and Database.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

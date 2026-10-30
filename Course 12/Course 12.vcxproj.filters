@@ -55,6 +55,12 @@
     <Filter Include="Source Files\014-Abstract Data Type %28ADT%29">
       <UniqueIdentifier>{1ae1e846-35d0-4639-a8ff-e3981046bea8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\015-Map">
+      <UniqueIdentifier>{327d2406-b239-4f88-a3e7-e3e0233d7b3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\016-Union">
+      <UniqueIdentifier>{a0ef56c0-730d-4170-8008-e2c8653ea170}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01-Data Structures\01-What is Data Structure and Why.cpp">
@@ -185,6 +191,12 @@
     </ClCompile>
     <ClCompile Include="014-Abstract Data Type (ADT)\01-What is ADT.cpp">
       <Filter>Source Files\014-Abstract Data Type %28ADT%29</Filter>
+    </ClCompile>
+    <ClCompile Include="016-Union\01-What is Union.cpp">
+      <Filter>Source Files\016-Union</Filter>
+    </ClCompile>
+    <ClCompile Include="015-Map\01-What is Map.cpp">
+      <Filter>Source Files\015-Map</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
